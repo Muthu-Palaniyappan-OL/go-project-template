@@ -1,0 +1,13 @@
+.code/
+.idea/
+*.exe
+*.exe~
+.go~
+.log
+.log~
+.test
+go.wrk
+*.dll
+*.so
+# If You didn't change any of the files in vendor director remove `#`
+# vendor/
